@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @neetauka
 - 👀 I’m interested in jobs
-- 🌱 I’m currently learning vue.js
+- 🌱 I’m currently learning react.js and vue.js
 - 💞️ I’m looking to collaborate on web site projects
 - 📫 How to reach me anitauka97@gmail.com
 
