@@ -2,7 +2,7 @@
 - 👀 I’m interested in jobs
 - 🌱 I’m currently learning react.js and vue.js
 - 💞️ I’m looking to collaborate on web site projects
-- 📫 How to reach me anita4u7@gmail.com
+- 📫 How to reach me anita4u97@gmail.com
 
 <!---
 neetauka/neetauka is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
