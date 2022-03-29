@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @neetauka
+- 👋 Hi, I’m Neeta uka
 - 👀 I’m interested in jobs
-- 🌱 I’m currently learning react.js and vue.js
+- 🌱 I’m currently learning react.js
 - 💞️ I’m looking to collaborate on web site projects
 - 📫 How to reach me anita4u97@gmail.com
 
