@@ -1,4 +1,5 @@
 - 👋 Hi, I’m Neeta uka
+- 💻 I'm a Front-end web developer
 - 👀 I’m interested in jobs
 - 🌱 I’m currently learning react.js
 - 💞️ I’m looking to collaborate on web site projects
